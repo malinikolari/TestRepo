@@ -1,0 +1,9 @@
+C:\Users\sujit\source\repos\Car\BusinessEntities\bin\Debug\netcoreapp3.1\BusinessEntities.deps.json
+C:\Users\sujit\source\repos\Car\BusinessEntities\bin\Debug\netcoreapp3.1\BusinessEntities.dll
+C:\Users\sujit\source\repos\Car\BusinessEntities\bin\Debug\netcoreapp3.1\BusinessEntities.pdb
+C:\Users\sujit\source\repos\Car\BusinessEntities\obj\Debug\netcoreapp3.1\BusinessEntities.csprojAssemblyReference.cache
+C:\Users\sujit\source\repos\Car\BusinessEntities\obj\Debug\netcoreapp3.1\BusinessEntities.csproj.CoreCompileInputs.cache
+C:\Users\sujit\source\repos\Car\BusinessEntities\obj\Debug\netcoreapp3.1\BusinessEntities.AssemblyInfoInputs.cache
+C:\Users\sujit\source\repos\Car\BusinessEntities\obj\Debug\netcoreapp3.1\BusinessEntities.AssemblyInfo.cs
+C:\Users\sujit\source\repos\Car\BusinessEntities\obj\Debug\netcoreapp3.1\BusinessEntities.dll
+C:\Users\sujit\source\repos\Car\BusinessEntities\obj\Debug\netcoreapp3.1\BusinessEntities.pdb
